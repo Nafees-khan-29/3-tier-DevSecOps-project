@@ -1,7 +1,3 @@
-# ==============================================================
-# Jerney Blog Platform - Kubernetes Manifest (Single File)
-# Includes: Namespace, Secrets, PVC (EBS), DB, Backend, Frontend
-# ==============================================================
 
 # ---- Namespace ----
 apiVersion: v1
