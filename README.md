@@ -1,4 +1,4 @@
-# 🛤️ Jerney: Blog Platform with a DevSecOps Pipeline
+# 🛤️ Journey: Blog Platform with a DevSecOps Pipeline
  
 A Gen-Z vibe blog platform built as a **3-tier application** (React, Node.js, PostgreSQL) and shipped with a complete **DevSecOps workflow**: Docker, Kubernetes on AWS EKS, Terraform, GitHub Actions CI/CD, and automated security scanning.
  
